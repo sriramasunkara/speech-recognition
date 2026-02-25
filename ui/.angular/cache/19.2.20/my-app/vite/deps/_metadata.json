@@ -1,0 +1,82 @@
+{
+  "hash": "d7167b5d",
+  "configHash": "69ea5e3d",
+  "lockfileHash": "34ce9c81",
+  "browserHash": "bd6a3756",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "317e697e",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "bef17f07",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "e3f7efec",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "e58d2900",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "cc994a8a",
+      "needsInterop": false
+    },
+    "@tensorflow-models/speech-commands": {
+      "src": "../../../../../../node_modules/@tensorflow-models/speech-commands/dist/speech-commands.esm.js",
+      "file": "@tensorflow-models_speech-commands.js",
+      "fileHash": "37efffd8",
+      "needsInterop": false
+    },
+    "@tensorflow/tfjs": {
+      "src": "../../../../../../node_modules/@tensorflow/tfjs/dist/index.js",
+      "file": "@tensorflow_tfjs.js",
+      "fileHash": "e2804791",
+      "needsInterop": false
+    },
+    "rxjs": {
+      "src": "../../../../../../node_modules/rxjs/dist/esm5/index.js",
+      "file": "rxjs.js",
+      "fileHash": "b283e7b8",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-EAFF6APF": {
+      "file": "chunk-EAFF6APF.js"
+    },
+    "chunk-XYCPHNGQ": {
+      "file": "chunk-XYCPHNGQ.js"
+    },
+    "chunk-BN4ITJDQ": {
+      "file": "chunk-BN4ITJDQ.js"
+    },
+    "chunk-W3MDGNAX": {
+      "file": "chunk-W3MDGNAX.js"
+    },
+    "chunk-WPMNBY4K": {
+      "file": "chunk-WPMNBY4K.js"
+    },
+    "chunk-D7ENQRCB": {
+      "file": "chunk-D7ENQRCB.js"
+    },
+    "chunk-P6U2JBMQ": {
+      "file": "chunk-P6U2JBMQ.js"
+    },
+    "chunk-4MWRP73S": {
+      "file": "chunk-4MWRP73S.js"
+    }
+  }
+}
